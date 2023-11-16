@@ -26,7 +26,7 @@ public class Prime_numbers {
 		
 		
 	
-			
+			 
 		}
 	
 	
