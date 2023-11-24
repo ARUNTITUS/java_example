@@ -2,7 +2,7 @@ package Class_Program;
 
 public class numbers {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		/*Integer x=10;
 
 		Float f = x.floatValue();
@@ -34,8 +34,8 @@ public class numbers {
 		System.out.println(num1.compareTo(num2)); //number value
 		System.out.println(num1.equals(num2)); //boolean value
 
-		String a = "hello"; 
-		String b= "hello";
+		String_Example a = "hello"; 
+		String_Example b= "hello";
 
 		if(a.equals(b))
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class second_large {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		{
 			int n,temp;
 			Scanner s= new Scanner(System.in);

@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Studentid {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s= new Scanner(System.in);
 		int id,m1,m2,m3,total,average,grade;
-		String name;
+		String_Example name;
 		System.out.print("student id: ");
 		id=s.nextInt();
 		System.out.print("student name");

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Prime_numbers {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		
 		int n =13;
 		int k=0;

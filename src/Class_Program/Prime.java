@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Prime {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s = new Scanner(System.in);
 		int n=s.nextInt();
 		int flag=0;		

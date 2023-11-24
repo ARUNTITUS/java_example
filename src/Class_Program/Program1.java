@@ -2,11 +2,11 @@ package Class_Program;
 
 public class Program1 {
 
-	public static void main(String[] args) {
-		String strl;
-		String str2=new String();
-		String str3=new String("welcome");
-		String str4;
+	public static void main(String_Example[] args) {
+		String_Example strl;
+		String_Example str2=new String_Example();
+		String_Example str3=new String_Example("welcome");
+		String_Example str4;
 		strl="india";
 		str2="japan";
 		str3="raju"; System.out.println(strl);
@@ -19,7 +19,7 @@ public class Program1 {
 		System.out.println(str4.substring(8,15));
 		System.out.println(str4.concat(str2));
 		System.out.println(str4.replace('a','*'));
-		System.out.println(str4.toUpperCase()); String str5="hello";
+		System.out.println(str4.toUpperCase()); String_Example str5="hello";
 		System.out.println(str5); System.out.println(str5.trim());		
 	}
 

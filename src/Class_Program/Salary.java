@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Salary {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s=new Scanner(System.in);
 		 int id,contact,salary;
-		 String name,address;
+		 String_Example name,address;
 		 id=s.nextInt();
 		 name=s.next();
 		 s.nextLine();

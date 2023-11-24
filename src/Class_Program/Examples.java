@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Examples {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s = new Scanner(System.in);
 		 
 		        int[] arr = {9, 7, 8, 6, 3, 1, 12, 2, 5};

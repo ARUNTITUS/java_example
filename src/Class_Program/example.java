@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class example {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s = new Scanner(System.in);
 		int digit=0,letter=0,vowel=0,consonant=0,special=0;
-		String str1=s.next();
+		String_Example str1=s.next();
 		char ch[]=str1.toCharArray();
 		for (int i=0;i<ch.length;i++) {
 			if(Character.isLetter(ch[i])) {

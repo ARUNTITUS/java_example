@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ATM {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s = new Scanner(System.in);
 
 		int choice, balance=20000, amount;

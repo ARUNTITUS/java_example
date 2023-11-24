@@ -2,7 +2,7 @@ package Class_Program;
 
 public class Recursive {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 			int[] a = {2,5,1,7,3,8,4,9,5};
 			recursive(a,0);
 		}

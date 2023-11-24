@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class neon1 {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		int sum=0,n;
 		Scanner s=new scanner(system.in);
 		System.out.println("enter the number:");

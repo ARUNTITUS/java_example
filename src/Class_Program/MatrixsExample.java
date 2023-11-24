@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MatrixsExample {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		/*int a[][]= {
 				{1,2,3},
 				{4,5,6},

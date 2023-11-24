@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class vowel {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		Scanner s = new Scanner(System.in);
 		char ch = s.next().charAt(0);
 		switch(ch) {

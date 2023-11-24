@@ -2,7 +2,7 @@ package Class_Program;
 
 public class Stingcompare {
 
-	public static void main(String[] args) {
+	public static void main(String_Example[] args) {
 		/*String s1 = "google";
 		String s2 = "google";
 		String s3 = new String ("google"); 
@@ -29,13 +29,13 @@ public class Stingcompare {
 		
 		
 		
-		String string = "abcdef 1234";
-		String reverse = new StringBuffer(string).reverse().toString();
+		String_Example string = "abcdef 1234";
+		String_Example reverse = new StringBuffer(string).reverse().toString();
 		
 		System.out.println("\n String before reverse: "+string);
 		System.out.println("String after reverse: "+reverse);
 		
-		String input = "abcdef";
+		String_Example input = "abcdef";
 		char[] try1 = input.toCharArray();
 		
 		for(int i = try1. length-1;i >= 0; i--)

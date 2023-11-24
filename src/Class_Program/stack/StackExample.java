@@ -30,6 +30,7 @@ public class StackExample {
 		stack.peek();
 		stack.capacity();
 		stack.clone();
+		stack.
 		
 		System.out.println(stack.clone());
 		
