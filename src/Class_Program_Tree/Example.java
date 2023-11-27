@@ -84,6 +84,7 @@
 	        int rightHeight = height(root.right);
 	    
 	        return Math.max(leftHeight, rightHeight) + 1;
+	        
 	    }
 
 	}
